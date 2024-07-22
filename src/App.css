@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(20, 17, 17);
+  color: white;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* h1, h2, h3, p {
+  color: rgb(0, 0, 0);
+} */
+
+/* HomePage.css */
+
+.movie-col {
+  padding: 15px;
+}
+
+.movie-poster {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.movie-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-top: 0.5rem;
+  text-align: center;
+}
+
+.text-muted {
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+button.btn-dark {
+  margin-top: 0.5rem;
+}
+
+.container {
+  padding-top: 2rem;
+}
+
+.row {
+  margin-bottom: 2rem;
+}
